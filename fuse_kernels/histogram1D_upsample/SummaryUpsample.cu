@@ -300,8 +300,8 @@ std::tuple<Tensor, Tensor> _histc_cuda_template(
         cudaDeviceSynchronize();
         stopTimerAndPrint("native", start_native, stop_native);
         #define CALL(i,type,thread,idx)\
-        cudaEvent_t start, stop;\
-        startTimer(start, stop);\
+        cudaEvent_t start_fuse, stop_fuse;\
+        startTimer(start_fuse, stop_fuse);\
         kernelHistogram1D_upsample_bilinear2d_out_frame_fused_kernel_##type##_idx_##i<input_hist_t, input_hist_t, IndexType, 1, 2, -1, CUDAHistogramMemoryType::SHARED, decltype(getDummyOp), scalar_t, accscalar_t>\
         <<<grid,\
           thread,\
@@ -310,7 +310,7 @@ std::tuple<Tensor, Tensor> _histc_cuda_template(
             aInfo, pInfo, bInfo, nbins, minvalue, maxvalue, totalElements, getDummyOp,\
                 num_kernels, rheight, rwidth, align_corners, idata, odata\
           );\
-        stopTimerAndPrint(&kernel_times[idx], start, stop);\
+        stopTimerAndPrint(&kernel_times[idx], start_fuse, stop_fuse);\
         cudaDeviceSynchronize()
 
       CALL(0, vfuse,512, 0);
