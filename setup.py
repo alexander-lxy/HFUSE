@@ -11,7 +11,7 @@ setup(
     ext_modules=[
         CUDAExtension('fusion_cuda', [
             'wrapper.cpp',
-            'histogram1D_upsample/SummaryUpsample.cu',
+            'fuse_kernels/histogram1D_upsample/SummaryUpsample.cu',
         ],
         libraries=['torch'],
         extra_compile_args={'cxx': [],
