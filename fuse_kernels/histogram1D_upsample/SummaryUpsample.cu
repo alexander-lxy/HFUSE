@@ -297,8 +297,8 @@ std::tuple<Tensor, Tensor> _histc_cuda_template(
           sharedMem,
           getStreamFromPool(true)>>>(
             aInfo, pInfo, bInfo, nbins, minvalue, maxvalue, totalElements, getDummyOp);
-            stopTimerAndPrint("native", start_native, stop_native);
         cudaDeviceSynchronize();
+        stopTimerAndPrint("native", start_native, stop_native);
         #define CALL(i,type,thread,idx)\
         cudaEvent_t start, stop;\
         startTimer(start, stop);\
