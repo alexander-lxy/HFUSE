@@ -1,0 +1,1729 @@
+
+
+Kernel 'native' execution time: 20175.926 ms
+Kernel '0-vfuse' execution time: 1.371 ms
+Kernel '0-vfuse_lb' execution time: 1.376 ms
+Kernel '0-hfuse' execution time: 1.629 ms
+Kernel '0-hfuse_lb' execution time: 1.624 ms
+Kernel '1-hfuse' execution time: 1.531 ms
+Kernel '1-hfuse_lb' execution time: 1.528 ms
+Kernel '2-hfuse' execution time: 1.570 ms
+Kernel '2-hfuse_lb' execution time: 1.576 ms
+Kernel '3-hfuse' execution time: 1.596 ms
+Kernel '3-hfuse_lb' execution time: 1.602 ms
+Kernel '4-hfuse' execution time: 1.709 ms
+Kernel '4-hfuse_lb' execution time: 1.719 ms
+Kernel '5-hfuse' execution time: 2.030 ms
+Kernel '5-hfuse_lb' execution time: 2.034 ms
+Kernel '6-hfuse' execution time: 3.176 ms
+Kernel '6-hfuse_lb' execution time: 3.174 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 1.562 ms
+Kernel '0-vfuse' execution time: 1.441 ms
+Kernel '0-vfuse_lb' execution time: 1.422 ms
+Kernel '0-hfuse' execution time: 1.684 ms
+Kernel '0-hfuse_lb' execution time: 1.688 ms
+Kernel '1-hfuse' execution time: 1.595 ms
+Kernel '1-hfuse_lb' execution time: 1.589 ms
+Kernel '2-hfuse' execution time: 1.638 ms
+Kernel '2-hfuse_lb' execution time: 1.638 ms
+Kernel '3-hfuse' execution time: 1.671 ms
+Kernel '3-hfuse_lb' execution time: 1.674 ms
+Kernel '4-hfuse' execution time: 1.935 ms
+Kernel '4-hfuse_lb' execution time: 1.832 ms
+Kernel '5-hfuse' execution time: 2.132 ms
+Kernel '5-hfuse_lb' execution time: 2.130 ms
+Kernel '6-hfuse' execution time: 3.364 ms
+Kernel '6-hfuse_lb' execution time: 3.352 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 1.631 ms
+Kernel '0-vfuse' execution time: 1.500 ms
+Kernel '0-vfuse_lb' execution time: 1.492 ms
+Kernel '0-hfuse' execution time: 1.776 ms
+Kernel '0-hfuse_lb' execution time: 1.752 ms
+Kernel '1-hfuse' execution time: 1.663 ms
+Kernel '1-hfuse_lb' execution time: 1.671 ms
+Kernel '2-hfuse' execution time: 1.714 ms
+Kernel '2-hfuse_lb' execution time: 1.718 ms
+Kernel '3-hfuse' execution time: 1.753 ms
+Kernel '3-hfuse_lb' execution time: 1.747 ms
+Kernel '4-hfuse' execution time: 1.894 ms
+Kernel '4-hfuse_lb' execution time: 1.908 ms
+Kernel '5-hfuse' execution time: 2.249 ms
+Kernel '5-hfuse_lb' execution time: 2.247 ms
+Kernel '6-hfuse' execution time: 3.552 ms
+Kernel '6-hfuse_lb' execution time: 3.533 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 1.704 ms
+Kernel '0-vfuse' execution time: 1.583 ms
+Kernel '0-vfuse_lb' execution time: 1.576 ms
+Kernel '0-hfuse' execution time: 1.871 ms
+Kernel '0-hfuse_lb' execution time: 1.838 ms
+Kernel '1-hfuse' execution time: 1.748 ms
+Kernel '1-hfuse_lb' execution time: 1.758 ms
+Kernel '2-hfuse' execution time: 1.804 ms
+Kernel '2-hfuse_lb' execution time: 1.805 ms
+Kernel '3-hfuse' execution time: 1.855 ms
+Kernel '3-hfuse_lb' execution time: 1.851 ms
+Kernel '4-hfuse' execution time: 2.061 ms
+Kernel '4-hfuse_lb' execution time: 2.007 ms
+Kernel '5-hfuse' execution time: 2.367 ms
+Kernel '5-hfuse_lb' execution time: 2.364 ms
+Kernel '6-hfuse' execution time: 3.745 ms
+Kernel '6-hfuse_lb' execution time: 3.745 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 1.785 ms
+Kernel '0-vfuse' execution time: 1.663 ms
+Kernel '0-vfuse_lb' execution time: 1.663 ms
+Kernel '0-hfuse' execution time: 1.919 ms
+Kernel '0-hfuse_lb' execution time: 1.940 ms
+Kernel '1-hfuse' execution time: 1.847 ms
+Kernel '1-hfuse_lb' execution time: 1.829 ms
+Kernel '2-hfuse' execution time: 1.884 ms
+Kernel '2-hfuse_lb' execution time: 1.886 ms
+Kernel '3-hfuse' execution time: 1.938 ms
+Kernel '3-hfuse_lb' execution time: 1.943 ms
+Kernel '4-hfuse' execution time: 2.280 ms
+Kernel '4-hfuse_lb' execution time: 2.104 ms
+Kernel '5-hfuse' execution time: 2.477 ms
+Kernel '5-hfuse_lb' execution time: 2.479 ms
+Kernel '6-hfuse' execution time: 3.919 ms
+Kernel '6-hfuse_lb' execution time: 3.914 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 1.860 ms
+Kernel '0-vfuse' execution time: 1.720 ms
+Kernel '0-vfuse_lb' execution time: 1.740 ms
+Kernel '0-hfuse' execution time: 2.017 ms
+Kernel '0-hfuse_lb' execution time: 2.034 ms
+Kernel '1-hfuse' execution time: 2.006 ms
+Kernel '1-hfuse_lb' execution time: 2.008 ms
+Kernel '2-hfuse' execution time: 1.977 ms
+Kernel '2-hfuse_lb' execution time: 1.974 ms
+Kernel '3-hfuse' execution time: 2.039 ms
+Kernel '3-hfuse_lb' execution time: 2.035 ms
+Kernel '4-hfuse' execution time: 2.360 ms
+Kernel '4-hfuse_lb' execution time: 2.522 ms
+Kernel '5-hfuse' execution time: 2.611 ms
+Kernel '5-hfuse_lb' execution time: 2.609 ms
+Kernel '6-hfuse' execution time: 4.137 ms
+Kernel '6-hfuse_lb' execution time: 4.141 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 1.971 ms
+Kernel '0-vfuse' execution time: 1.826 ms
+Kernel '0-vfuse_lb' execution time: 1.809 ms
+Kernel '0-hfuse' execution time: 2.123 ms
+Kernel '0-hfuse_lb' execution time: 2.125 ms
+Kernel '1-hfuse' execution time: 2.084 ms
+Kernel '1-hfuse_lb' execution time: 2.085 ms
+Kernel '2-hfuse' execution time: 2.047 ms
+Kernel '2-hfuse_lb' execution time: 2.056 ms
+Kernel '3-hfuse' execution time: 2.130 ms
+Kernel '3-hfuse_lb' execution time: 2.122 ms
+Kernel '4-hfuse' execution time: 2.513 ms
+Kernel '4-hfuse_lb' execution time: 2.632 ms
+Kernel '5-hfuse' execution time: 2.728 ms
+Kernel '5-hfuse_lb' execution time: 2.730 ms
+Kernel '6-hfuse' execution time: 4.313 ms
+Kernel '6-hfuse_lb' execution time: 4.324 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 2.031 ms
+Kernel '0-vfuse' execution time: 1.915 ms
+Kernel '0-vfuse_lb' execution time: 1.922 ms
+Kernel '0-hfuse' execution time: 2.205 ms
+Kernel '0-hfuse_lb' execution time: 2.200 ms
+Kernel '1-hfuse' execution time: 2.173 ms
+Kernel '1-hfuse_lb' execution time: 2.173 ms
+Kernel '2-hfuse' execution time: 2.155 ms
+Kernel '2-hfuse_lb' execution time: 2.152 ms
+Kernel '3-hfuse' execution time: 2.225 ms
+Kernel '3-hfuse_lb' execution time: 2.226 ms
+Kernel '4-hfuse' execution time: 2.764 ms
+Kernel '4-hfuse_lb' execution time: 2.758 ms
+Kernel '5-hfuse' execution time: 2.865 ms
+Kernel '5-hfuse_lb' execution time: 2.878 ms
+Kernel '6-hfuse' execution time: 4.634 ms
+Kernel '6-hfuse_lb' execution time: 4.570 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 2.132 ms
+Kernel '0-vfuse' execution time: 1.969 ms
+Kernel '0-vfuse_lb' execution time: 1.983 ms
+Kernel '0-hfuse' execution time: 2.286 ms
+Kernel '0-hfuse_lb' execution time: 2.284 ms
+Kernel '1-hfuse' execution time: 2.260 ms
+Kernel '1-hfuse_lb' execution time: 2.250 ms
+Kernel '2-hfuse' execution time: 2.231 ms
+Kernel '2-hfuse_lb' execution time: 2.235 ms
+Kernel '3-hfuse' execution time: 2.324 ms
+Kernel '3-hfuse_lb' execution time: 2.315 ms
+Kernel '4-hfuse' execution time: 2.873 ms
+Kernel '4-hfuse_lb' execution time: 2.874 ms
+Kernel '5-hfuse' execution time: 2.998 ms
+Kernel '5-hfuse_lb' execution time: 2.990 ms
+Kernel '6-hfuse' execution time: 4.750 ms
+Kernel '6-hfuse_lb' execution time: 4.780 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 2.168 ms
+Kernel '0-vfuse' execution time: 2.120 ms
+Kernel '0-vfuse_lb' execution time: 2.098 ms
+Kernel '0-hfuse' execution time: 2.366 ms
+Kernel '0-hfuse_lb' execution time: 2.365 ms
+Kernel '1-hfuse' execution time: 2.347 ms
+Kernel '1-hfuse_lb' execution time: 2.342 ms
+Kernel '2-hfuse' execution time: 2.322 ms
+Kernel '2-hfuse_lb' execution time: 2.433 ms
+Kernel '3-hfuse' execution time: 2.410 ms
+Kernel '3-hfuse_lb' execution time: 2.412 ms
+Kernel '4-hfuse' execution time: 2.983 ms
+Kernel '4-hfuse_lb' execution time: 3.010 ms
+Kernel '5-hfuse' execution time: 3.131 ms
+Kernel '5-hfuse_lb' execution time: 3.126 ms
+Kernel '6-hfuse' execution time: 5.089 ms
+Kernel '6-hfuse_lb' execution time: 5.008 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 2.292 ms
+Kernel '0-vfuse' execution time: 2.185 ms
+Kernel '0-vfuse_lb' execution time: 2.193 ms
+Kernel '0-hfuse' execution time: 2.446 ms
+Kernel '0-hfuse_lb' execution time: 2.437 ms
+Kernel '1-hfuse' execution time: 2.417 ms
+Kernel '1-hfuse_lb' execution time: 2.422 ms
+Kernel '2-hfuse' execution time: 2.434 ms
+Kernel '2-hfuse_lb' execution time: 2.422 ms
+Kernel '3-hfuse' execution time: 2.504 ms
+Kernel '3-hfuse_lb' execution time: 2.528 ms
+Kernel '4-hfuse' execution time: 3.106 ms
+Kernel '4-hfuse_lb' execution time: 3.099 ms
+Kernel '5-hfuse' execution time: 3.260 ms
+Kernel '5-hfuse_lb' execution time: 3.257 ms
+Kernel '6-hfuse' execution time: 5.358 ms
+Kernel '6-hfuse_lb' execution time: 5.222 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 2.373 ms
+Kernel '0-vfuse' execution time: 2.235 ms
+Kernel '0-vfuse_lb' execution time: 2.266 ms
+Kernel '0-hfuse' execution time: 2.532 ms
+Kernel '0-hfuse_lb' execution time: 2.529 ms
+Kernel '1-hfuse' execution time: 2.510 ms
+Kernel '1-hfuse_lb' execution time: 2.510 ms
+Kernel '2-hfuse' execution time: 2.666 ms
+Kernel '2-hfuse_lb' execution time: 2.668 ms
+Kernel '3-hfuse' execution time: 2.615 ms
+Kernel '3-hfuse_lb' execution time: 2.609 ms
+Kernel '4-hfuse' execution time: 3.234 ms
+Kernel '4-hfuse_lb' execution time: 3.239 ms
+Kernel '5-hfuse' execution time: 3.426 ms
+Kernel '5-hfuse_lb' execution time: 3.406 ms
+Kernel '6-hfuse' execution time: 5.918 ms
+Kernel '6-hfuse_lb' execution time: 5.577 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 2.459 ms
+Kernel '0-vfuse' execution time: 2.357 ms
+Kernel '0-vfuse_lb' execution time: 2.325 ms
+Kernel '0-hfuse' execution time: 2.606 ms
+Kernel '0-hfuse_lb' execution time: 2.605 ms
+Kernel '1-hfuse' execution time: 2.591 ms
+Kernel '1-hfuse_lb' execution time: 2.590 ms
+Kernel '2-hfuse' execution time: 2.741 ms
+Kernel '2-hfuse_lb' execution time: 2.763 ms
+Kernel '3-hfuse' execution time: 2.694 ms
+Kernel '3-hfuse_lb' execution time: 2.961 ms
+Kernel '4-hfuse' execution time: 3.340 ms
+Kernel '4-hfuse_lb' execution time: 3.337 ms
+Kernel '5-hfuse' execution time: 3.539 ms
+Kernel '5-hfuse_lb' execution time: 3.541 ms
+Kernel '6-hfuse' execution time: 6.930 ms
+Kernel '6-hfuse_lb' execution time: 6.959 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 2.519 ms
+Kernel '0-vfuse' execution time: 2.432 ms
+Kernel '0-vfuse_lb' execution time: 2.398 ms
+Kernel '0-hfuse' execution time: 2.686 ms
+Kernel '0-hfuse_lb' execution time: 2.687 ms
+Kernel '1-hfuse' execution time: 2.678 ms
+Kernel '1-hfuse_lb' execution time: 2.678 ms
+Kernel '2-hfuse' execution time: 2.749 ms
+Kernel '2-hfuse_lb' execution time: 2.842 ms
+Kernel '3-hfuse' execution time: 3.161 ms
+Kernel '3-hfuse_lb' execution time: 2.790 ms
+Kernel '4-hfuse' execution time: 3.464 ms
+Kernel '4-hfuse_lb' execution time: 3.453 ms
+Kernel '5-hfuse' execution time: 3.714 ms
+Kernel '5-hfuse_lb' execution time: 3.750 ms
+Kernel '6-hfuse' execution time: 7.572 ms
+Kernel '6-hfuse_lb' execution time: 7.130 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 2.611 ms
+Kernel '0-vfuse' execution time: 2.537 ms
+Kernel '0-vfuse_lb' execution time: 2.500 ms
+Kernel '0-hfuse' execution time: 2.776 ms
+Kernel '0-hfuse_lb' execution time: 2.767 ms
+Kernel '1-hfuse' execution time: 2.760 ms
+Kernel '1-hfuse_lb' execution time: 2.760 ms
+Kernel '2-hfuse' execution time: 2.920 ms
+Kernel '2-hfuse_lb' execution time: 2.929 ms
+Kernel '3-hfuse' execution time: 2.898 ms
+Kernel '3-hfuse_lb' execution time: 3.272 ms
+Kernel '4-hfuse' execution time: 3.577 ms
+Kernel '4-hfuse_lb' execution time: 3.580 ms
+Kernel '5-hfuse' execution time: 3.883 ms
+Kernel '5-hfuse_lb' execution time: 3.902 ms
+Kernel '6-hfuse' execution time: 9.123 ms
+Kernel '6-hfuse_lb' execution time: 8.051 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 2.696 ms
+Kernel '0-vfuse' execution time: 2.592 ms
+Kernel '0-vfuse_lb' execution time: 2.593 ms
+Kernel '0-hfuse' execution time: 2.853 ms
+Kernel '0-hfuse_lb' execution time: 2.858 ms
+Kernel '1-hfuse' execution time: 2.847 ms
+Kernel '1-hfuse_lb' execution time: 2.842 ms
+Kernel '2-hfuse' execution time: 3.030 ms
+Kernel '2-hfuse_lb' execution time: 3.037 ms
+Kernel '3-hfuse' execution time: 3.257 ms
+Kernel '3-hfuse_lb' execution time: 3.246 ms
+Kernel '4-hfuse' execution time: 3.701 ms
+Kernel '4-hfuse_lb' execution time: 3.703 ms
+Kernel '5-hfuse' execution time: 4.062 ms
+Kernel '5-hfuse_lb' execution time: 4.087 ms
+Kernel '6-hfuse' execution time: 9.487 ms
+Kernel '6-hfuse_lb' execution time: 9.517 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 2.769 ms
+Kernel '0-vfuse' execution time: 2.669 ms
+Kernel '0-vfuse_lb' execution time: 2.661 ms
+Kernel '0-hfuse' execution time: 2.939 ms
+Kernel '0-hfuse_lb' execution time: 2.930 ms
+Kernel '1-hfuse' execution time: 2.919 ms
+Kernel '1-hfuse_lb' execution time: 2.928 ms
+Kernel '2-hfuse' execution time: 3.109 ms
+Kernel '2-hfuse_lb' execution time: 3.111 ms
+Kernel '3-hfuse' execution time: 3.482 ms
+Kernel '3-hfuse_lb' execution time: 3.464 ms
+Kernel '4-hfuse' execution time: 3.808 ms
+Kernel '4-hfuse_lb' execution time: 3.827 ms
+Kernel '5-hfuse' execution time: 4.525 ms
+Kernel '5-hfuse_lb' execution time: 4.331 ms
+Kernel '6-hfuse' execution time: 9.885 ms
+Kernel '6-hfuse_lb' execution time: 9.908 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 2.856 ms
+Kernel '0-vfuse' execution time: 2.745 ms
+Kernel '0-vfuse_lb' execution time: 2.738 ms
+Kernel '0-hfuse' execution time: 3.016 ms
+Kernel '0-hfuse_lb' execution time: 3.007 ms
+Kernel '1-hfuse' execution time: 3.018 ms
+Kernel '1-hfuse_lb' execution time: 3.009 ms
+Kernel '2-hfuse' execution time: 3.205 ms
+Kernel '2-hfuse_lb' execution time: 3.218 ms
+Kernel '3-hfuse' execution time: 3.603 ms
+Kernel '3-hfuse_lb' execution time: 3.448 ms
+Kernel '4-hfuse' execution time: 3.950 ms
+Kernel '4-hfuse_lb' execution time: 3.954 ms
+Kernel '5-hfuse' execution time: 4.582 ms
+Kernel '5-hfuse_lb' execution time: 4.518 ms
+Kernel '6-hfuse' execution time: 10.352 ms
+Kernel '6-hfuse_lb' execution time: 10.271 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 2.940 ms
+Kernel '0-vfuse' execution time: 2.830 ms
+Kernel '0-vfuse_lb' execution time: 2.836 ms
+Kernel '0-hfuse' execution time: 3.095 ms
+Kernel '0-hfuse_lb' execution time: 3.097 ms
+Kernel '1-hfuse' execution time: 3.098 ms
+Kernel '1-hfuse_lb' execution time: 3.092 ms
+Kernel '2-hfuse' execution time: 3.308 ms
+Kernel '2-hfuse_lb' execution time: 3.286 ms
+Kernel '3-hfuse' execution time: 3.695 ms
+Kernel '3-hfuse_lb' execution time: 3.699 ms
+Kernel '4-hfuse' execution time: 4.054 ms
+Kernel '4-hfuse_lb' execution time: 4.056 ms
+Kernel '5-hfuse' execution time: 5.246 ms
+Kernel '5-hfuse_lb' execution time: 4.941 ms
+Kernel '6-hfuse' execution time: 10.639 ms
+Kernel '6-hfuse_lb' execution time: 10.612 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 3.015 ms
+Kernel '0-vfuse' execution time: 2.911 ms
+Kernel '0-vfuse_lb' execution time: 2.913 ms
+Kernel '0-hfuse' execution time: 3.176 ms
+Kernel '0-hfuse_lb' execution time: 3.177 ms
+Kernel '1-hfuse' execution time: 3.178 ms
+Kernel '1-hfuse_lb' execution time: 3.185 ms
+Kernel '2-hfuse' execution time: 3.388 ms
+Kernel '2-hfuse_lb' execution time: 3.403 ms
+Kernel '3-hfuse' execution time: 3.642 ms
+Kernel '3-hfuse_lb' execution time: 3.785 ms
+Kernel '4-hfuse' execution time: 4.186 ms
+Kernel '4-hfuse_lb' execution time: 4.190 ms
+Kernel '5-hfuse' execution time: 5.445 ms
+Kernel '5-hfuse_lb' execution time: 5.384 ms
+Kernel '6-hfuse' execution time: 11.032 ms
+Kernel '6-hfuse_lb' execution time: 10.989 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 3.090 ms
+Kernel '0-vfuse' execution time: 2.994 ms
+Kernel '0-vfuse_lb' execution time: 2.986 ms
+Kernel '0-hfuse' execution time: 3.261 ms
+Kernel '0-hfuse_lb' execution time: 3.258 ms
+Kernel '1-hfuse' execution time: 3.260 ms
+Kernel '1-hfuse_lb' execution time: 3.262 ms
+Kernel '2-hfuse' execution time: 3.474 ms
+Kernel '2-hfuse_lb' execution time: 3.479 ms
+Kernel '3-hfuse' execution time: 3.907 ms
+Kernel '3-hfuse_lb' execution time: 3.903 ms
+Kernel '4-hfuse' execution time: 4.304 ms
+Kernel '4-hfuse_lb' execution time: 4.297 ms
+Kernel '5-hfuse' execution time: 5.665 ms
+Kernel '5-hfuse_lb' execution time: 5.868 ms
+Kernel '6-hfuse' execution time: 11.364 ms
+Kernel '6-hfuse_lb' execution time: 11.390 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 3.178 ms
+Kernel '0-vfuse' execution time: 3.073 ms
+Kernel '0-vfuse_lb' execution time: 3.082 ms
+Kernel '0-hfuse' execution time: 3.346 ms
+Kernel '0-hfuse_lb' execution time: 3.339 ms
+Kernel '1-hfuse' execution time: 3.357 ms
+Kernel '1-hfuse_lb' execution time: 3.355 ms
+Kernel '2-hfuse' execution time: 3.578 ms
+Kernel '2-hfuse_lb' execution time: 3.588 ms
+Kernel '3-hfuse' execution time: 4.024 ms
+Kernel '3-hfuse_lb' execution time: 3.969 ms
+Kernel '4-hfuse' execution time: 4.414 ms
+Kernel '4-hfuse_lb' execution time: 4.413 ms
+Kernel '5-hfuse' execution time: 6.025 ms
+Kernel '5-hfuse_lb' execution time: 6.011 ms
+Kernel '6-hfuse' execution time: 11.742 ms
+Kernel '6-hfuse_lb' execution time: 11.745 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 3.249 ms
+Kernel '0-vfuse' execution time: 3.160 ms
+Kernel '0-vfuse_lb' execution time: 3.143 ms
+Kernel '0-hfuse' execution time: 3.432 ms
+Kernel '0-hfuse_lb' execution time: 3.420 ms
+Kernel '1-hfuse' execution time: 3.433 ms
+Kernel '1-hfuse_lb' execution time: 3.440 ms
+Kernel '2-hfuse' execution time: 3.664 ms
+Kernel '2-hfuse_lb' execution time: 3.667 ms
+Kernel '3-hfuse' execution time: 4.115 ms
+Kernel '3-hfuse_lb' execution time: 4.095 ms
+Kernel '4-hfuse' execution time: 4.528 ms
+Kernel '4-hfuse_lb' execution time: 4.539 ms
+Kernel '5-hfuse' execution time: 6.167 ms
+Kernel '5-hfuse_lb' execution time: 6.250 ms
+Kernel '6-hfuse' execution time: 12.072 ms
+Kernel '6-hfuse_lb' execution time: 12.035 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 3.330 ms
+Kernel '0-vfuse' execution time: 3.244 ms
+Kernel '0-vfuse_lb' execution time: 3.229 ms
+Kernel '0-hfuse' execution time: 3.504 ms
+Kernel '0-hfuse_lb' execution time: 3.511 ms
+Kernel '1-hfuse' execution time: 3.519 ms
+Kernel '1-hfuse_lb' execution time: 3.516 ms
+Kernel '2-hfuse' execution time: 3.758 ms
+Kernel '2-hfuse_lb' execution time: 3.775 ms
+Kernel '3-hfuse' execution time: 4.221 ms
+Kernel '3-hfuse_lb' execution time: 4.229 ms
+Kernel '4-hfuse' execution time: 4.647 ms
+Kernel '4-hfuse_lb' execution time: 4.651 ms
+Kernel '5-hfuse' execution time: 6.454 ms
+Kernel '5-hfuse_lb' execution time: 6.451 ms
+Kernel '6-hfuse' execution time: 12.448 ms
+Kernel '6-hfuse_lb' execution time: 12.443 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 3.416 ms
+Kernel '0-vfuse' execution time: 3.320 ms
+Kernel '0-vfuse_lb' execution time: 3.297 ms
+Kernel '0-hfuse' execution time: 3.584 ms
+Kernel '0-hfuse_lb' execution time: 3.593 ms
+Kernel '1-hfuse' execution time: 3.598 ms
+Kernel '1-hfuse_lb' execution time: 3.604 ms
+Kernel '2-hfuse' execution time: 3.848 ms
+Kernel '2-hfuse_lb' execution time: 3.856 ms
+Kernel '3-hfuse' execution time: 4.325 ms
+Kernel '3-hfuse_lb' execution time: 4.323 ms
+Kernel '4-hfuse' execution time: 4.786 ms
+Kernel '4-hfuse_lb' execution time: 4.766 ms
+Kernel '5-hfuse' execution time: 6.619 ms
+Kernel '5-hfuse_lb' execution time: 6.609 ms
+Kernel '6-hfuse' execution time: 12.835 ms
+Kernel '6-hfuse_lb' execution time: 12.795 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 3.491 ms
+Kernel '0-vfuse' execution time: 3.401 ms
+Kernel '0-vfuse_lb' execution time: 3.387 ms
+Kernel '0-hfuse' execution time: 3.672 ms
+Kernel '0-hfuse_lb' execution time: 3.665 ms
+Kernel '1-hfuse' execution time: 3.682 ms
+Kernel '1-hfuse_lb' execution time: 3.685 ms
+Kernel '2-hfuse' execution time: 3.905 ms
+Kernel '2-hfuse_lb' execution time: 3.945 ms
+Kernel '3-hfuse' execution time: 4.437 ms
+Kernel '3-hfuse_lb' execution time: 4.378 ms
+Kernel '4-hfuse' execution time: 4.911 ms
+Kernel '4-hfuse_lb' execution time: 5.231 ms
+Kernel '5-hfuse' execution time: 6.816 ms
+Kernel '5-hfuse_lb' execution time: 6.826 ms
+Kernel '6-hfuse' execution time: 13.147 ms
+Kernel '6-hfuse_lb' execution time: 13.153 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 3.571 ms
+Kernel '0-vfuse' execution time: 3.463 ms
+Kernel '0-vfuse_lb' execution time: 3.469 ms
+Kernel '0-hfuse' execution time: 3.754 ms
+Kernel '0-hfuse_lb' execution time: 3.740 ms
+Kernel '1-hfuse' execution time: 3.764 ms
+Kernel '1-hfuse_lb' execution time: 3.769 ms
+Kernel '2-hfuse' execution time: 4.038 ms
+Kernel '2-hfuse_lb' execution time: 4.040 ms
+Kernel '3-hfuse' execution time: 4.538 ms
+Kernel '3-hfuse_lb' execution time: 4.530 ms
+Kernel '4-hfuse' execution time: 5.348 ms
+Kernel '4-hfuse_lb' execution time: 5.012 ms
+Kernel '5-hfuse' execution time: 6.977 ms
+Kernel '5-hfuse_lb' execution time: 6.970 ms
+Kernel '6-hfuse' execution time: 13.497 ms
+Kernel '6-hfuse_lb' execution time: 13.529 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 3.650 ms
+Kernel '0-vfuse' execution time: 3.562 ms
+Kernel '0-vfuse_lb' execution time: 3.548 ms
+Kernel '0-hfuse' execution time: 3.841 ms
+Kernel '0-hfuse_lb' execution time: 3.827 ms
+Kernel '1-hfuse' execution time: 3.855 ms
+Kernel '1-hfuse_lb' execution time: 3.860 ms
+Kernel '2-hfuse' execution time: 4.126 ms
+Kernel '2-hfuse_lb' execution time: 4.132 ms
+Kernel '3-hfuse' execution time: 4.640 ms
+Kernel '3-hfuse_lb' execution time: 4.645 ms
+Kernel '4-hfuse' execution time: 5.138 ms
+Kernel '4-hfuse_lb' execution time: 5.487 ms
+Kernel '5-hfuse' execution time: 7.168 ms
+Kernel '5-hfuse_lb' execution time: 7.149 ms
+Kernel '6-hfuse' execution time: 13.907 ms
+Kernel '6-hfuse_lb' execution time: 13.853 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 3.739 ms
+Kernel '0-vfuse' execution time: 3.642 ms
+Kernel '0-vfuse_lb' execution time: 3.623 ms
+Kernel '0-hfuse' execution time: 3.919 ms
+Kernel '0-hfuse_lb' execution time: 3.918 ms
+Kernel '1-hfuse' execution time: 3.933 ms
+Kernel '1-hfuse_lb' execution time: 3.929 ms
+Kernel '2-hfuse' execution time: 4.220 ms
+Kernel '2-hfuse_lb' execution time: 4.223 ms
+Kernel '3-hfuse' execution time: 4.741 ms
+Kernel '3-hfuse_lb' execution time: 4.742 ms
+Kernel '4-hfuse' execution time: 5.373 ms
+Kernel '4-hfuse_lb' execution time: 5.256 ms
+Kernel '5-hfuse' execution time: 7.335 ms
+Kernel '5-hfuse_lb' execution time: 7.320 ms
+Kernel '6-hfuse' execution time: 14.219 ms
+Kernel '6-hfuse_lb' execution time: 14.223 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 3.825 ms
+Kernel '0-vfuse' execution time: 3.731 ms
+Kernel '0-vfuse_lb' execution time: 3.718 ms
+Kernel '0-hfuse' execution time: 4.000 ms
+Kernel '0-hfuse_lb' execution time: 4.000 ms
+Kernel '1-hfuse' execution time: 4.030 ms
+Kernel '1-hfuse_lb' execution time: 4.033 ms
+Kernel '2-hfuse' execution time: 4.318 ms
+Kernel '2-hfuse_lb' execution time: 4.325 ms
+Kernel '3-hfuse' execution time: 4.854 ms
+Kernel '3-hfuse_lb' execution time: 4.826 ms
+Kernel '4-hfuse' execution time: 5.634 ms
+Kernel '4-hfuse_lb' execution time: 5.378 ms
+Kernel '5-hfuse' execution time: 7.542 ms
+Kernel '5-hfuse_lb' execution time: 7.554 ms
+Kernel '6-hfuse' execution time: 14.607 ms
+Kernel '6-hfuse_lb' execution time: 14.556 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 3.891 ms
+Kernel '0-vfuse' execution time: 3.802 ms
+Kernel '0-vfuse_lb' execution time: 3.798 ms
+Kernel '0-hfuse' execution time: 4.073 ms
+Kernel '0-hfuse_lb' execution time: 4.061 ms
+Kernel '1-hfuse' execution time: 4.106 ms
+Kernel '1-hfuse_lb' execution time: 4.109 ms
+Kernel '2-hfuse' execution time: 4.400 ms
+Kernel '2-hfuse_lb' execution time: 4.407 ms
+Kernel '3-hfuse' execution time: 4.944 ms
+Kernel '3-hfuse_lb' execution time: 4.943 ms
+Kernel '4-hfuse' execution time: 5.831 ms
+Kernel '4-hfuse_lb' execution time: 5.852 ms
+Kernel '5-hfuse' execution time: 7.676 ms
+Kernel '5-hfuse_lb' execution time: 7.696 ms
+Kernel '6-hfuse' execution time: 14.932 ms
+Kernel '6-hfuse_lb' execution time: 14.910 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 3.969 ms
+Kernel '0-vfuse' execution time: 3.886 ms
+Kernel '0-vfuse_lb' execution time: 3.881 ms
+Kernel '0-hfuse' execution time: 4.154 ms
+Kernel '0-hfuse_lb' execution time: 4.162 ms
+Kernel '1-hfuse' execution time: 4.190 ms
+Kernel '1-hfuse_lb' execution time: 4.198 ms
+Kernel '2-hfuse' execution time: 4.494 ms
+Kernel '2-hfuse_lb' execution time: 4.512 ms
+Kernel '3-hfuse' execution time: 5.060 ms
+Kernel '3-hfuse_lb' execution time: 5.065 ms
+Kernel '4-hfuse' execution time: 5.640 ms
+Kernel '4-hfuse_lb' execution time: 5.633 ms
+Kernel '5-hfuse' execution time: 7.899 ms
+Kernel '5-hfuse_lb' execution time: 7.911 ms
+Kernel '6-hfuse' execution time: 15.239 ms
+Kernel '6-hfuse_lb' execution time: 15.270 ms
+
+
+
+
+
+
+------------
+
+
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 24.058 ms
+Kernel '0-vfuse' execution time: 4.977 ms
+Kernel '0-vfuse_lb' execution time: 3.917 ms
+Kernel '0-hfuse' execution time: 4.274 ms
+Kernel '0-hfuse_lb' execution time: 3.973 ms
+Kernel '1-hfuse' execution time: 4.783 ms
+Kernel '1-hfuse_lb' execution time: 3.988 ms
+Kernel '2-hfuse' execution time: 4.843 ms
+Kernel '2-hfuse_lb' execution time: 4.187 ms
+Kernel '3-hfuse' execution time: 4.486 ms
+Kernel '3-hfuse_lb' execution time: 4.056 ms
+Kernel '4-hfuse' execution time: 5.957 ms
+Kernel '4-hfuse_lb' execution time: 4.276 ms
+Kernel '5-hfuse' execution time: 7.691 ms
+Kernel '5-hfuse_lb' execution time: 5.017 ms
+Kernel '6-hfuse' execution time: 14.960 ms
+Kernel '6-hfuse_lb' execution time: 6.759 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 4.983 ms
+Kernel '0-vfuse' execution time: 4.996 ms
+Kernel '0-vfuse_lb' execution time: 3.996 ms
+Kernel '0-hfuse' execution time: 4.410 ms
+Kernel '0-hfuse_lb' execution time: 4.095 ms
+Kernel '1-hfuse' execution time: 4.925 ms
+Kernel '1-hfuse_lb' execution time: 4.127 ms
+Kernel '2-hfuse' execution time: 4.907 ms
+Kernel '2-hfuse_lb' execution time: 4.819 ms
+Kernel '3-hfuse' execution time: 4.647 ms
+Kernel '3-hfuse_lb' execution time: 4.687 ms
+Kernel '4-hfuse' execution time: 6.199 ms
+Kernel '4-hfuse_lb' execution time: 4.834 ms
+Kernel '5-hfuse' execution time: 8.186 ms
+Kernel '5-hfuse_lb' execution time: 5.529 ms
+Kernel '6-hfuse' execution time: 16.117 ms
+Kernel '6-hfuse_lb' execution time: 7.360 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 4.986 ms
+Kernel '0-vfuse' execution time: 5.026 ms
+Kernel '0-vfuse_lb' execution time: 3.958 ms
+Kernel '0-hfuse' execution time: 4.504 ms
+Kernel '0-hfuse_lb' execution time: 4.145 ms
+Kernel '1-hfuse' execution time: 5.029 ms
+Kernel '1-hfuse_lb' execution time: 4.191 ms
+Kernel '2-hfuse' execution time: 5.487 ms
+Kernel '2-hfuse_lb' execution time: 4.398 ms
+Kernel '3-hfuse' execution time: 4.802 ms
+Kernel '3-hfuse_lb' execution time: 4.265 ms
+Kernel '4-hfuse' execution time: 6.388 ms
+Kernel '4-hfuse_lb' execution time: 4.541 ms
+Kernel '5-hfuse' execution time: 8.514 ms
+Kernel '5-hfuse_lb' execution time: 5.318 ms
+Kernel '6-hfuse' execution time: 16.888 ms
+Kernel '6-hfuse_lb' execution time: 7.256 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 5.146 ms
+Kernel '0-vfuse' execution time: 5.183 ms
+Kernel '0-vfuse_lb' execution time: 4.186 ms
+Kernel '0-hfuse' execution time: 4.666 ms
+Kernel '0-hfuse_lb' execution time: 4.296 ms
+Kernel '1-hfuse' execution time: 5.212 ms
+Kernel '1-hfuse_lb' execution time: 4.362 ms
+Kernel '2-hfuse' execution time: 5.654 ms
+Kernel '2-hfuse_lb' execution time: 5.047 ms
+Kernel '3-hfuse' execution time: 5.245 ms
+Kernel '3-hfuse_lb' execution time: 4.933 ms
+Kernel '4-hfuse' execution time: 6.643 ms
+Kernel '4-hfuse_lb' execution time: 5.141 ms
+Kernel '5-hfuse' execution time: 8.928 ms
+Kernel '5-hfuse_lb' execution time: 5.938 ms
+Kernel '6-hfuse' execution time: 17.644 ms
+Kernel '6-hfuse_lb' execution time: 8.002 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 5.371 ms
+Kernel '0-vfuse' execution time: 5.403 ms
+Kernel '0-vfuse_lb' execution time: 4.319 ms
+Kernel '0-hfuse' execution time: 4.919 ms
+Kernel '0-hfuse_lb' execution time: 4.484 ms
+Kernel '1-hfuse' execution time: 5.506 ms
+Kernel '1-hfuse_lb' execution time: 4.547 ms
+Kernel '2-hfuse' execution time: 6.022 ms
+Kernel '2-hfuse_lb' execution time: 4.682 ms
+Kernel '3-hfuse' execution time: 5.495 ms
+Kernel '3-hfuse_lb' execution time: 4.580 ms
+Kernel '4-hfuse' execution time: 7.029 ms
+Kernel '4-hfuse_lb' execution time: 4.854 ms
+Kernel '5-hfuse' execution time: 9.376 ms
+Kernel '5-hfuse_lb' execution time: 5.691 ms
+Kernel '6-hfuse' execution time: 18.549 ms
+Kernel '6-hfuse_lb' execution time: 7.829 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 5.536 ms
+Kernel '0-vfuse' execution time: 5.583 ms
+Kernel '0-vfuse_lb' execution time: 4.550 ms
+Kernel '0-hfuse' execution time: 5.093 ms
+Kernel '0-hfuse_lb' execution time: 4.650 ms
+Kernel '1-hfuse' execution time: 5.686 ms
+Kernel '1-hfuse_lb' execution time: 4.725 ms
+Kernel '2-hfuse' execution time: 6.234 ms
+Kernel '2-hfuse_lb' execution time: 5.367 ms
+Kernel '3-hfuse' execution time: 6.571 ms
+Kernel '3-hfuse_lb' execution time: 5.278 ms
+Kernel '4-hfuse' execution time: 7.301 ms
+Kernel '4-hfuse_lb' execution time: 5.463 ms
+Kernel '5-hfuse' execution time: 9.857 ms
+Kernel '5-hfuse_lb' execution time: 6.314 ms
+Kernel '6-hfuse' execution time: 19.435 ms
+Kernel '6-hfuse_lb' execution time: 8.642 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 5.742 ms
+Kernel '0-vfuse' execution time: 5.752 ms
+Kernel '0-vfuse_lb' execution time: 4.601 ms
+Kernel '0-hfuse' execution time: 5.314 ms
+Kernel '0-hfuse_lb' execution time: 4.815 ms
+Kernel '1-hfuse' execution time: 5.929 ms
+Kernel '1-hfuse_lb' execution time: 4.901 ms
+Kernel '2-hfuse' execution time: 6.534 ms
+Kernel '2-hfuse_lb' execution time: 4.935 ms
+Kernel '3-hfuse' execution time: 7.115 ms
+Kernel '3-hfuse_lb' execution time: 4.858 ms
+Kernel '4-hfuse' execution time: 7.692 ms
+Kernel '4-hfuse_lb' execution time: 5.193 ms
+Kernel '5-hfuse' execution time: 10.783 ms
+Kernel '5-hfuse_lb' execution time: 6.136 ms
+Kernel '6-hfuse' execution time: 20.346 ms
+Kernel '6-hfuse_lb' execution time: 8.476 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 5.928 ms
+Kernel '0-vfuse' execution time: 5.972 ms
+Kernel '0-vfuse_lb' execution time: 4.919 ms
+Kernel '0-hfuse' execution time: 5.527 ms
+Kernel '0-hfuse_lb' execution time: 5.012 ms
+Kernel '1-hfuse' execution time: 6.162 ms
+Kernel '1-hfuse_lb' execution time: 5.110 ms
+Kernel '2-hfuse' execution time: 6.787 ms
+Kernel '2-hfuse_lb' execution time: 5.613 ms
+Kernel '3-hfuse' execution time: 7.297 ms
+Kernel '3-hfuse_lb' execution time: 5.510 ms
+Kernel '4-hfuse' execution time: 8.121 ms
+Kernel '4-hfuse_lb' execution time: 5.781 ms
+Kernel '5-hfuse' execution time: 10.984 ms
+Kernel '5-hfuse_lb' execution time: 6.764 ms
+Kernel '6-hfuse' execution time: 21.030 ms
+Kernel '6-hfuse_lb' execution time: 9.325 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 6.134 ms
+Kernel '0-vfuse' execution time: 6.159 ms
+Kernel '0-vfuse_lb' execution time: 4.939 ms
+Kernel '0-hfuse' execution time: 5.744 ms
+Kernel '0-hfuse_lb' execution time: 5.214 ms
+Kernel '1-hfuse' execution time: 6.414 ms
+Kernel '1-hfuse_lb' execution time: 5.281 ms
+Kernel '2-hfuse' execution time: 7.068 ms
+Kernel '2-hfuse_lb' execution time: 5.239 ms
+Kernel '3-hfuse' execution time: 7.740 ms
+Kernel '3-hfuse_lb' execution time: 5.199 ms
+Kernel '4-hfuse' execution time: 8.957 ms
+Kernel '4-hfuse_lb' execution time: 5.555 ms
+Kernel '5-hfuse' execution time: 12.359 ms
+Kernel '5-hfuse_lb' execution time: 6.548 ms
+Kernel '6-hfuse' execution time: 22.231 ms
+Kernel '6-hfuse_lb' execution time: 9.234 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 6.320 ms
+Kernel '0-vfuse' execution time: 6.361 ms
+Kernel '0-vfuse_lb' execution time: 5.612 ms
+Kernel '0-hfuse' execution time: 5.945 ms
+Kernel '0-hfuse_lb' execution time: 5.356 ms
+Kernel '1-hfuse' execution time: 6.632 ms
+Kernel '1-hfuse_lb' execution time: 5.471 ms
+Kernel '2-hfuse' execution time: 7.307 ms
+Kernel '2-hfuse_lb' execution time: 5.941 ms
+Kernel '3-hfuse' execution time: 7.990 ms
+Kernel '3-hfuse_lb' execution time: 5.895 ms
+Kernel '4-hfuse' execution time: 8.998 ms
+Kernel '4-hfuse_lb' execution time: 6.133 ms
+Kernel '5-hfuse' execution time: 12.825 ms
+Kernel '5-hfuse_lb' execution time: 7.173 ms
+Kernel '6-hfuse' execution time: 22.944 ms
+Kernel '6-hfuse_lb' execution time: 9.949 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 6.553 ms
+Kernel '0-vfuse' execution time: 6.611 ms
+Kernel '0-vfuse_lb' execution time: 5.380 ms
+Kernel '0-hfuse' execution time: 6.183 ms
+Kernel '0-hfuse_lb' execution time: 5.532 ms
+Kernel '1-hfuse' execution time: 6.901 ms
+Kernel '1-hfuse_lb' execution time: 5.677 ms
+Kernel '2-hfuse' execution time: 7.618 ms
+Kernel '2-hfuse_lb' execution time: 5.534 ms
+Kernel '3-hfuse' execution time: 8.374 ms
+Kernel '3-hfuse_lb' execution time: 5.570 ms
+Kernel '4-hfuse' execution time: 9.099 ms
+Kernel '4-hfuse_lb' execution time: 6.036 ms
+Kernel '5-hfuse' execution time: 13.428 ms
+Kernel '5-hfuse_lb' execution time: 7.031 ms
+Kernel '6-hfuse' execution time: 24.187 ms
+Kernel '6-hfuse_lb' execution time: 10.135 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 6.717 ms
+Kernel '0-vfuse' execution time: 6.749 ms
+Kernel '0-vfuse_lb' execution time: 6.022 ms
+Kernel '0-hfuse' execution time: 6.377 ms
+Kernel '0-hfuse_lb' execution time: 5.716 ms
+Kernel '1-hfuse' execution time: 7.121 ms
+Kernel '1-hfuse_lb' execution time: 5.863 ms
+Kernel '2-hfuse' execution time: 7.873 ms
+Kernel '2-hfuse_lb' execution time: 6.247 ms
+Kernel '3-hfuse' execution time: 8.646 ms
+Kernel '3-hfuse_lb' execution time: 6.330 ms
+Kernel '4-hfuse' execution time: 9.475 ms
+Kernel '4-hfuse_lb' execution time: 6.673 ms
+Kernel '5-hfuse' execution time: 13.967 ms
+Kernel '5-hfuse_lb' execution time: 7.598 ms
+Kernel '6-hfuse' execution time: 24.593 ms
+Kernel '6-hfuse_lb' execution time: 10.804 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 6.909 ms
+Kernel '0-vfuse' execution time: 6.951 ms
+Kernel '0-vfuse_lb' execution time: 5.741 ms
+Kernel '0-hfuse' execution time: 6.600 ms
+Kernel '0-hfuse_lb' execution time: 5.882 ms
+Kernel '1-hfuse' execution time: 7.362 ms
+Kernel '1-hfuse_lb' execution time: 6.031 ms
+Kernel '2-hfuse' execution time: 8.152 ms
+Kernel '2-hfuse_lb' execution time: 5.872 ms
+Kernel '3-hfuse' execution time: 8.989 ms
+Kernel '3-hfuse_lb' execution time: 6.001 ms
+Kernel '4-hfuse' execution time: 10.781 ms
+Kernel '4-hfuse_lb' execution time: 6.414 ms
+Kernel '5-hfuse' execution time: 14.557 ms
+Kernel '5-hfuse_lb' execution time: 7.438 ms
+Kernel '6-hfuse' execution time: 25.858 ms
+Kernel '6-hfuse_lb' execution time: 10.429 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 7.209 ms
+Kernel '0-vfuse' execution time: 7.257 ms
+Kernel '0-vfuse_lb' execution time: 6.376 ms
+Kernel '0-hfuse' execution time: 6.948 ms
+Kernel '0-hfuse_lb' execution time: 6.184 ms
+Kernel '1-hfuse' execution time: 7.741 ms
+Kernel '1-hfuse_lb' execution time: 6.382 ms
+Kernel '2-hfuse' execution time: 8.598 ms
+Kernel '2-hfuse_lb' execution time: 6.871 ms
+Kernel '3-hfuse' execution time: 9.478 ms
+Kernel '3-hfuse_lb' execution time: 6.842 ms
+Kernel '4-hfuse' execution time: 11.459 ms
+Kernel '4-hfuse_lb' execution time: 7.315 ms
+Kernel '5-hfuse' execution time: 15.415 ms
+Kernel '5-hfuse_lb' execution time: 8.263 ms
+Kernel '6-hfuse' execution time: 27.216 ms
+Kernel '6-hfuse_lb' execution time: 11.784 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 7.426 ms
+Kernel '0-vfuse' execution time: 7.463 ms
+Kernel '0-vfuse_lb' execution time: 6.236 ms
+Kernel '0-hfuse' execution time: 7.180 ms
+Kernel '0-hfuse_lb' execution time: 6.366 ms
+Kernel '1-hfuse' execution time: 8.008 ms
+Kernel '1-hfuse_lb' execution time: 6.567 ms
+Kernel '2-hfuse' execution time: 8.905 ms
+Kernel '2-hfuse_lb' execution time: 6.469 ms
+Kernel '3-hfuse' execution time: 9.803 ms
+Kernel '3-hfuse_lb' execution time: 6.480 ms
+Kernel '4-hfuse' execution time: 11.872 ms
+Kernel '4-hfuse_lb' execution time: 7.014 ms
+Kernel '5-hfuse' execution time: 15.978 ms
+Kernel '5-hfuse_lb' execution time: 8.127 ms
+Kernel '6-hfuse' execution time: 28.250 ms
+Kernel '6-hfuse_lb' execution time: 11.621 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 7.605 ms
+Kernel '0-vfuse' execution time: 7.659 ms
+Kernel '0-vfuse_lb' execution time: 6.575 ms
+Kernel '0-hfuse' execution time: 7.386 ms
+Kernel '0-hfuse_lb' execution time: 6.555 ms
+Kernel '1-hfuse' execution time: 8.240 ms
+Kernel '1-hfuse_lb' execution time: 6.779 ms
+Kernel '2-hfuse' execution time: 9.171 ms
+Kernel '2-hfuse_lb' execution time: 7.176 ms
+Kernel '3-hfuse' execution time: 10.123 ms
+Kernel '3-hfuse_lb' execution time: 7.194 ms
+Kernel '4-hfuse' execution time: 12.189 ms
+Kernel '4-hfuse_lb' execution time: 7.641 ms
+Kernel '5-hfuse' execution time: 16.190 ms
+Kernel '5-hfuse_lb' execution time: 8.473 ms
+Kernel '6-hfuse' execution time: 28.271 ms
+Kernel '6-hfuse_lb' execution time: 11.914 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 7.697 ms
+Kernel '0-vfuse' execution time: 7.742 ms
+Kernel '0-vfuse_lb' execution time: 6.689 ms
+Kernel '0-hfuse' execution time: 7.450 ms
+Kernel '0-hfuse_lb' execution time: 6.574 ms
+Kernel '1-hfuse' execution time: 8.289 ms
+Kernel '1-hfuse_lb' execution time: 6.777 ms
+Kernel '2-hfuse' execution time: 9.234 ms
+Kernel '2-hfuse_lb' execution time: 6.587 ms
+Kernel '3-hfuse' execution time: 10.235 ms
+Kernel '3-hfuse_lb' execution time: 6.648 ms
+Kernel '4-hfuse' execution time: 12.276 ms
+Kernel '4-hfuse_lb' execution time: 7.172 ms
+Kernel '5-hfuse' execution time: 16.599 ms
+Kernel '5-hfuse_lb' execution time: 8.321 ms
+Kernel '6-hfuse' execution time: 29.166 ms
+Kernel '6-hfuse_lb' execution time: 11.872 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 7.870 ms
+Kernel '0-vfuse' execution time: 7.905 ms
+Kernel '0-vfuse_lb' execution time: 7.022 ms
+Kernel '0-hfuse' execution time: 7.648 ms
+Kernel '0-hfuse_lb' execution time: 6.780 ms
+Kernel '1-hfuse' execution time: 8.526 ms
+Kernel '1-hfuse_lb' execution time: 6.982 ms
+Kernel '2-hfuse' execution time: 9.488 ms
+Kernel '2-hfuse_lb' execution time: 7.222 ms
+Kernel '3-hfuse' execution time: 10.524 ms
+Kernel '3-hfuse_lb' execution time: 7.258 ms
+Kernel '4-hfuse' execution time: 12.652 ms
+Kernel '4-hfuse_lb' execution time: 7.808 ms
+Kernel '5-hfuse' execution time: 17.077 ms
+Kernel '5-hfuse_lb' execution time: 8.901 ms
+Kernel '6-hfuse' execution time: 29.919 ms
+Kernel '6-hfuse_lb' execution time: 12.562 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 8.081 ms
+Kernel '0-vfuse' execution time: 8.117 ms
+Kernel '0-vfuse_lb' execution time: 6.965 ms
+Kernel '0-hfuse' execution time: 7.871 ms
+Kernel '0-hfuse_lb' execution time: 6.940 ms
+Kernel '1-hfuse' execution time: 8.775 ms
+Kernel '1-hfuse_lb' execution time: 7.162 ms
+Kernel '2-hfuse' execution time: 9.779 ms
+Kernel '2-hfuse_lb' execution time: 6.881 ms
+Kernel '3-hfuse' execution time: 10.846 ms
+Kernel '3-hfuse_lb' execution time: 6.888 ms
+Kernel '4-hfuse' execution time: 13.076 ms
+Kernel '4-hfuse_lb' execution time: 7.556 ms
+Kernel '5-hfuse' execution time: 17.662 ms
+Kernel '5-hfuse_lb' execution time: 8.775 ms
+Kernel '6-hfuse' execution time: 30.940 ms
+Kernel '6-hfuse_lb' execution time: 12.666 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 8.272 ms
+Kernel '0-vfuse' execution time: 8.299 ms
+Kernel '0-vfuse_lb' execution time: 7.309 ms
+Kernel '0-hfuse' execution time: 8.079 ms
+Kernel '0-hfuse_lb' execution time: 7.129 ms
+Kernel '1-hfuse' execution time: 8.996 ms
+Kernel '1-hfuse_lb' execution time: 7.360 ms
+Kernel '2-hfuse' execution time: 10.036 ms
+Kernel '2-hfuse_lb' execution time: 7.605 ms
+Kernel '3-hfuse' execution time: 11.155 ms
+Kernel '3-hfuse_lb' execution time: 7.534 ms
+Kernel '4-hfuse' execution time: 13.443 ms
+Kernel '4-hfuse_lb' execution time: 8.135 ms
+Kernel '5-hfuse' execution time: 18.155 ms
+Kernel '5-hfuse_lb' execution time: 9.383 ms
+Kernel '6-hfuse' execution time: 31.733 ms
+Kernel '6-hfuse_lb' execution time: 13.342 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 8.474 ms
+Kernel '0-vfuse' execution time: 8.513 ms
+Kernel '0-vfuse_lb' execution time: 7.250 ms
+Kernel '0-hfuse' execution time: 8.298 ms
+Kernel '0-hfuse_lb' execution time: 7.296 ms
+Kernel '1-hfuse' execution time: 9.245 ms
+Kernel '1-hfuse_lb' execution time: 7.530 ms
+Kernel '2-hfuse' execution time: 10.333 ms
+Kernel '2-hfuse_lb' execution time: 7.228 ms
+Kernel '3-hfuse' execution time: 11.502 ms
+Kernel '3-hfuse_lb' execution time: 7.241 ms
+Kernel '4-hfuse' execution time: 13.854 ms
+Kernel '4-hfuse_lb' execution time: 7.889 ms
+Kernel '5-hfuse' execution time: 18.693 ms
+Kernel '5-hfuse_lb' execution time: 9.196 ms
+Kernel '6-hfuse' execution time: 32.542 ms
+Kernel '6-hfuse_lb' execution time: 13.292 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 8.663 ms
+Kernel '0-vfuse' execution time: 8.688 ms
+Kernel '0-vfuse_lb' execution time: 7.571 ms
+Kernel '0-hfuse' execution time: 8.497 ms
+Kernel '0-hfuse_lb' execution time: 7.483 ms
+Kernel '1-hfuse' execution time: 9.466 ms
+Kernel '1-hfuse_lb' execution time: 7.736 ms
+Kernel '2-hfuse' execution time: 10.557 ms
+Kernel '2-hfuse_lb' execution time: 7.925 ms
+Kernel '3-hfuse' execution time: 11.771 ms
+Kernel '3-hfuse_lb' execution time: 7.825 ms
+Kernel '4-hfuse' execution time: 13.986 ms
+Kernel '4-hfuse_lb' execution time: 8.471 ms
+Kernel '5-hfuse' execution time: 19.116 ms
+Kernel '5-hfuse_lb' execution time: 9.829 ms
+Kernel '6-hfuse' execution time: 33.466 ms
+Kernel '6-hfuse_lb' execution time: 13.901 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 9.006 ms
+Kernel '0-vfuse' execution time: 9.040 ms
+Kernel '0-vfuse_lb' execution time: 7.700 ms
+Kernel '0-hfuse' execution time: 8.904 ms
+Kernel '0-hfuse_lb' execution time: 7.795 ms
+Kernel '1-hfuse' execution time: 9.908 ms
+Kernel '1-hfuse_lb' execution time: 8.090 ms
+Kernel '2-hfuse' execution time: 11.125 ms
+Kernel '2-hfuse_lb' execution time: 7.827 ms
+Kernel '3-hfuse' execution time: 12.409 ms
+Kernel '3-hfuse_lb' execution time: 7.833 ms
+Kernel '4-hfuse' execution time: 14.944 ms
+Kernel '4-hfuse_lb' execution time: 8.526 ms
+Kernel '5-hfuse' execution time: 20.167 ms
+Kernel '5-hfuse_lb' execution time: 9.936 ms
+Kernel '6-hfuse' execution time: 35.367 ms
+Kernel '6-hfuse_lb' execution time: 14.341 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 9.204 ms
+Kernel '0-vfuse' execution time: 9.250 ms
+Kernel '0-vfuse_lb' execution time: 7.961 ms
+Kernel '0-hfuse' execution time: 9.116 ms
+Kernel '0-hfuse_lb' execution time: 8.002 ms
+Kernel '1-hfuse' execution time: 10.154 ms
+Kernel '1-hfuse_lb' execution time: 8.306 ms
+Kernel '2-hfuse' execution time: 11.379 ms
+Kernel '2-hfuse_lb' execution time: 8.496 ms
+Kernel '3-hfuse' execution time: 12.684 ms
+Kernel '3-hfuse_lb' execution time: 8.411 ms
+Kernel '4-hfuse' execution time: 15.305 ms
+Kernel '4-hfuse_lb' execution time: 9.177 ms
+Kernel '5-hfuse' execution time: 20.682 ms
+Kernel '5-hfuse_lb' execution time: 10.629 ms
+Kernel '6-hfuse' execution time: 36.194 ms
+Kernel '6-hfuse_lb' execution time: 15.108 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 9.364 ms
+Kernel '0-vfuse' execution time: 9.311 ms
+Kernel '0-vfuse_lb' execution time: 7.995 ms
+Kernel '0-hfuse' execution time: 9.140 ms
+Kernel '0-hfuse_lb' execution time: 8.009 ms
+Kernel '1-hfuse' execution time: 10.169 ms
+Kernel '1-hfuse_lb' execution time: 8.286 ms
+Kernel '2-hfuse' execution time: 11.396 ms
+Kernel '2-hfuse_lb' execution time: 7.879 ms
+Kernel '3-hfuse' execution time: 12.725 ms
+Kernel '3-hfuse_lb' execution time: 7.878 ms
+Kernel '4-hfuse' execution time: 15.336 ms
+Kernel '4-hfuse_lb' execution time: 8.684 ms
+Kernel '5-hfuse' execution time: 20.690 ms
+Kernel '5-hfuse_lb' execution time: 10.088 ms
+Kernel '6-hfuse' execution time: 36.461 ms
+Kernel '6-hfuse_lb' execution time: 14.601 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 9.429 ms
+Kernel '0-vfuse' execution time: 9.461 ms
+Kernel '0-vfuse_lb' execution time: 8.172 ms
+Kernel '0-hfuse' execution time: 9.364 ms
+Kernel '0-hfuse_lb' execution time: 8.191 ms
+Kernel '1-hfuse' execution time: 10.408 ms
+Kernel '1-hfuse_lb' execution time: 8.492 ms
+Kernel '2-hfuse' execution time: 11.664 ms
+Kernel '2-hfuse_lb' execution time: 8.542 ms
+Kernel '3-hfuse' execution time: 13.025 ms
+Kernel '3-hfuse_lb' execution time: 8.393 ms
+Kernel '4-hfuse' execution time: 15.709 ms
+Kernel '4-hfuse_lb' execution time: 9.004 ms
+Kernel '5-hfuse' execution time: 21.144 ms
+Kernel '5-hfuse_lb' execution time: 10.708 ms
+Kernel '6-hfuse' execution time: 36.623 ms
+Kernel '6-hfuse_lb' execution time: 15.385 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 9.639 ms
+Kernel '0-vfuse' execution time: 9.682 ms
+Kernel '0-vfuse_lb' execution time: 8.235 ms
+Kernel '0-hfuse' execution time: 9.590 ms
+Kernel '0-hfuse_lb' execution time: 8.350 ms
+Kernel '1-hfuse' execution time: 10.651 ms
+Kernel '1-hfuse_lb' execution time: 8.655 ms
+Kernel '2-hfuse' execution time: 11.940 ms
+Kernel '2-hfuse_lb' execution time: 8.226 ms
+Kernel '3-hfuse' execution time: 13.347 ms
+Kernel '3-hfuse_lb' execution time: 8.153 ms
+Kernel '4-hfuse' execution time: 16.125 ms
+Kernel '4-hfuse_lb' execution time: 8.990 ms
+Kernel '5-hfuse' execution time: 21.690 ms
+Kernel '5-hfuse_lb' execution time: 10.576 ms
+Kernel '6-hfuse' execution time: 38.236 ms
+Kernel '6-hfuse_lb' execution time: 15.276 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 9.832 ms
+Kernel '0-vfuse' execution time: 9.876 ms
+Kernel '0-vfuse_lb' execution time: 8.428 ms
+Kernel '0-hfuse' execution time: 9.783 ms
+Kernel '0-hfuse_lb' execution time: 8.554 ms
+Kernel '1-hfuse' execution time: 10.866 ms
+Kernel '1-hfuse_lb' execution time: 8.874 ms
+Kernel '2-hfuse' execution time: 12.195 ms
+Kernel '2-hfuse_lb' execution time: 8.849 ms
+Kernel '3-hfuse' execution time: 13.654 ms
+Kernel '3-hfuse_lb' execution time: 8.694 ms
+Kernel '4-hfuse' execution time: 16.448 ms
+Kernel '4-hfuse_lb' execution time: 9.377 ms
+Kernel '5-hfuse' execution time: 22.136 ms
+Kernel '5-hfuse_lb' execution time: 11.143 ms
+Kernel '6-hfuse' execution time: 38.818 ms
+Kernel '6-hfuse_lb' execution time: 15.898 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 10.028 ms
+Kernel '0-vfuse' execution time: 10.099 ms
+Kernel '0-vfuse_lb' execution time: 8.535 ms
+Kernel '0-hfuse' execution time: 10.004 ms
+Kernel '0-hfuse_lb' execution time: 8.710 ms
+Kernel '1-hfuse' execution time: 11.118 ms
+Kernel '1-hfuse_lb' execution time: 9.025 ms
+Kernel '2-hfuse' execution time: 12.457 ms
+Kernel '2-hfuse_lb' execution time: 8.532 ms
+Kernel '3-hfuse' execution time: 13.984 ms
+Kernel '3-hfuse_lb' execution time: 8.497 ms
+Kernel '4-hfuse' execution time: 16.841 ms
+Kernel '4-hfuse_lb' execution time: 9.413 ms
+Kernel '5-hfuse' execution time: 22.680 ms
+Kernel '5-hfuse_lb' execution time: 10.915 ms
+Kernel '6-hfuse' execution time: 39.848 ms
+Kernel '6-hfuse_lb' execution time: 16.228 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 10.394 ms
+Kernel '0-vfuse' execution time: 10.441 ms
+Kernel '0-vfuse_lb' execution time: 9.012 ms
+Kernel '0-hfuse' execution time: 10.418 ms
+Kernel '0-hfuse_lb' execution time: 9.086 ms
+Kernel '1-hfuse' execution time: 11.583 ms
+Kernel '1-hfuse_lb' execution time: 9.455 ms
+Kernel '2-hfuse' execution time: 13.036 ms
+Kernel '2-hfuse_lb' execution time: 9.539 ms
+Kernel '3-hfuse' execution time: 14.607 ms
+Kernel '3-hfuse_lb' execution time: 9.619 ms
+Kernel '4-hfuse' execution time: 17.615 ms
+Kernel '4-hfuse_lb' execution time: 10.025 ms
+Kernel '5-hfuse' execution time: 23.712 ms
+Kernel '5-hfuse_lb' execution time: 12.003 ms
+Kernel '6-hfuse' execution time: 41.658 ms
+Kernel '6-hfuse_lb' execution time: 17.416 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 10.590 ms
+Kernel '0-vfuse' execution time: 10.656 ms
+Kernel '0-vfuse_lb' execution time: 9.091 ms
+Kernel '0-hfuse' execution time: 10.652 ms
+Kernel '0-hfuse_lb' execution time: 9.252 ms
+Kernel '1-hfuse' execution time: 11.841 ms
+Kernel '1-hfuse_lb' execution time: 9.641 ms
+Kernel '2-hfuse' execution time: 13.335 ms
+Kernel '2-hfuse_lb' execution time: 9.101 ms
+Kernel '3-hfuse' execution time: 14.946 ms
+Kernel '3-hfuse_lb' execution time: 8.980 ms
+Kernel '4-hfuse' execution time: 18.031 ms
+Kernel '4-hfuse_lb' execution time: 9.682 ms
+Kernel '5-hfuse' execution time: 23.712 ms
+Kernel '5-hfuse_lb' execution time: 11.471 ms
+Kernel '6-hfuse' execution time: 41.613 ms
+Kernel '6-hfuse_lb' execution time: 16.647 ms
+0
+1
+2
+3
+6
+shared
+7
+10
+5120000 512
+10000
+Kernel 'native' execution time: 10.623 ms
+Kernel '0-vfuse' execution time: 10.657 ms
+Kernel '0-vfuse_lb' execution time: 9.248 ms
+Kernel '0-hfuse' execution time: 10.639 ms
+Kernel '0-hfuse_lb' execution time: 9.258 ms
+Kernel '1-hfuse' execution time: 11.815 ms
+Kernel '1-hfuse_lb' execution time: 9.608 ms
+Kernel '2-hfuse' execution time: 13.248 ms
+Kernel '2-hfuse_lb' execution time: 9.574 ms
+Kernel '3-hfuse' execution time: 14.884 ms
+Kernel '3-hfuse_lb' execution time: 9.574 ms
+Kernel '4-hfuse' execution time: 17.922 ms
+Kernel '4-hfuse_lb' execution time: 10.081 ms
+Kernel '5-hfuse' execution time: 24.120 ms
+Kernel '5-hfuse_lb' execution time: 12.065 ms
+Kernel '6-hfuse' execution time: 42.163 ms
+Kernel '6-hfuse_lb' execution time: 17.336 ms

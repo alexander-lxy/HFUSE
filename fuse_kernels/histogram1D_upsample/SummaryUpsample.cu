@@ -282,6 +282,7 @@ std::tuple<Tensor, Tensor> _histc_cuda_template(
         const int num_blocks = cuda::ATenCeilDiv(num_kernels, num_threads);
         printf("%d\n", num_blocks);
         cudaDeviceSynchronize();
+        float native = 0.0f;
         cudaEvent_t start_native, stop_native;
         startTimer(start_native, stop_native);
         upsample_bilinear2d_out_frame<scalar_t, accscalar_t>
@@ -298,8 +299,8 @@ std::tuple<Tensor, Tensor> _histc_cuda_template(
           getStreamFromPool(true)>>>(
             aInfo, pInfo, bInfo, nbins, minvalue, maxvalue, totalElements, getDummyOp);
         cudaDeviceSynchronize();
-        stopTimerAndPrint("native", start_native, stop_native);
-        #define CALL(i,type,thread,idx)\
+        stopTimerAndPrint(&native, "native", start_native, stop_native);
+        #define CALL(i,type,thread,idx) do {\
         cudaEvent_t start_fuse, stop_fuse;\
         startTimer(start_fuse, stop_fuse);\
         kernelHistogram1D_upsample_bilinear2d_out_frame_fused_kernel_##type##_idx_##i<input_hist_t, input_hist_t, IndexType, 1, 2, -1, CUDAHistogramMemoryType::SHARED, decltype(getDummyOp), scalar_t, accscalar_t>\
@@ -310,8 +311,9 @@ std::tuple<Tensor, Tensor> _histc_cuda_template(
             aInfo, pInfo, bInfo, nbins, minvalue, maxvalue, totalElements, getDummyOp,\
                 num_kernels, rheight, rwidth, align_corners, idata, odata\
           );\
-        stopTimerAndPrint(&kernel_times[idx], start_fuse, stop_fuse);\
-        cudaDeviceSynchronize()
+        cudaDeviceSynchronize();\
+        stopTimerAndPrint(&kernel_times[idx], kernel_names[idx], start_fuse, stop_fuse);\
+        } while(0)
 
       CALL(0, vfuse,512, 0);
       CALL(0, vfuse_lb,512, 1);

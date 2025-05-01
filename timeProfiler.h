@@ -10,13 +10,14 @@ inline void startTimer(cudaEvent_t& start_event, cudaEvent_t& stop_event) {
     cudaEventRecord(start_event, 0);
 }
 
-inline void stopTimerAndPrint(const char* kernel_name, cudaEvent_t& start_event, cudaEvent_t& stop_event) {
+inline void stopTimerAndPrint(float* output_ms, const char* kernel_name, cudaEvent_t& start_event, cudaEvent_t& stop_event) {
     float elapsed_time_ms = 0.0f;
 
     cudaEventRecord(stop_event, 0);
     cudaEventSynchronize(stop_event);
     cudaEventElapsedTime(&elapsed_time_ms, start_event, stop_event);
 
+    // printf("Kernel '%s' execution time: %.3f ms\n", kernel_name, elapsed_time_ms);
     printf("Kernel '%s' execution time: %.3f ms\n", kernel_name, elapsed_time_ms);
 
     cudaEventDestroy(start_event);
