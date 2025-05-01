@@ -38,7 +38,17 @@
 #include "../cuda/LaunchUtils.h"
 
 #include <cuda_profiler_api.h>
-#include "./timeProfiler.h"
+#include "../timeProfiler.h"
+
+const int NUM_KERNELS = 16;
+float kernel_times[NUM_KERNELS];
+const char* kernel_names[NUM_KERNELS] = {
+    "0-vfuse", "0-vfuse_lb", "0-hfuse", "0-hfuse_lb",
+    "1-hfuse", "1-hfuse_lb", "2-hfuse", "2-hfuse_lb",
+    "3-hfuse", "3-hfuse_lb", "4-hfuse", "4-hfuse_lb",
+    "5-hfuse", "5-hfuse_lb", "6-hfuse", "6-hfuse_lb"
+};
+
 
 namespace at {
 namespace native {
@@ -272,9 +282,8 @@ std::tuple<Tensor, Tensor> _histc_cuda_template(
         const int num_blocks = cuda::ATenCeilDiv(num_kernels, num_threads);
         printf("%d\n", num_blocks);
         cudaDeviceSynchronize();
-        // cudaProfilerStart();
-        cudaEvent_t start, stop;
-        startTimer(start, stop);
+        cudaEvent_t start_native, stop_native;
+        startTimer(start_native, stop_native);
         upsample_bilinear2d_out_frame<scalar_t, accscalar_t>
             <<<num_blocks,
                num_threads,
@@ -288,8 +297,12 @@ std::tuple<Tensor, Tensor> _histc_cuda_template(
           sharedMem,
           getStreamFromPool(true)>>>(
             aInfo, pInfo, bInfo, nbins, minvalue, maxvalue, totalElements, getDummyOp);
+            stopTimerAndPrint("native", start_native, stop_native);
         cudaDeviceSynchronize();
-        #define CALL(i,type,thread) kernelHistogram1D_upsample_bilinear2d_out_frame_fused_kernel_##type##_idx_##i<input_hist_t, input_hist_t, IndexType, 1, 2, -1, CUDAHistogramMemoryType::SHARED, decltype(getDummyOp), scalar_t, accscalar_t>\
+        #define CALL(i,type,thread,idx)\
+        cudaEvent_t start, stop;\
+        startTimer(start, stop);\
+        kernelHistogram1D_upsample_bilinear2d_out_frame_fused_kernel_##type##_idx_##i<input_hist_t, input_hist_t, IndexType, 1, 2, -1, CUDAHistogramMemoryType::SHARED, decltype(getDummyOp), scalar_t, accscalar_t>\
         <<<grid,\
           thread,\
           sharedMem,\
@@ -297,26 +310,26 @@ std::tuple<Tensor, Tensor> _histc_cuda_template(
             aInfo, pInfo, bInfo, nbins, minvalue, maxvalue, totalElements, getDummyOp,\
                 num_kernels, rheight, rwidth, align_corners, idata, odata\
           );\
+        stopTimerAndPrint(&kernel_times[idx], start, stop);\
         cudaDeviceSynchronize()
 
-      CALL(0, vfuse,512);
-      CALL(0, vfuse_lb,512);
-      CALL(0, hfuse,1024);
-      CALL(0, hfuse_lb,1024);
-      CALL(1, hfuse,1024);
-      CALL(1, hfuse_lb,1024);
-      CALL(2, hfuse,1024);
-      CALL(2, hfuse_lb,1024);
-      CALL(3, hfuse,1024);
-      CALL(3, hfuse_lb,1024);
-      CALL(4, hfuse,1024);
-      CALL(4, hfuse_lb,1024);
-      CALL(5, hfuse,1024);
-      CALL(5, hfuse_lb,1024);
-      CALL(6, hfuse,1024);
-      CALL(6, hfuse_lb,1024);
+      CALL(0, vfuse,512, 0);
+      CALL(0, vfuse_lb,512, 1);
+      CALL(0, hfuse,1024, 2);
+      CALL(0, hfuse_lb,1024, 3);
+      CALL(1, hfuse,1024, 4);
+      CALL(1, hfuse_lb,1024, 5);
+      CALL(2, hfuse,1024, 6);
+      CALL(2, hfuse_lb,1024, 7);
+      CALL(3, hfuse,1024, 8);
+      CALL(3, hfuse_lb,1024, 9);
+      CALL(4, hfuse,1024, 10);
+      CALL(4, hfuse_lb,1024, 11);
+      CALL(5, hfuse,1024, 12);
+      CALL(5, hfuse_lb,1024, 13);
+      CALL(6, hfuse,1024, 14);
+      CALL(6, hfuse_lb,1024, 15);
         // cudaProfilerStop();
-        stopTimerAndPrint("kernel", start, stop);
       });
 
   AT_ASSERTM(cudaGetLastError() == cudaSuccess, "kernelHistogram1D failed");
