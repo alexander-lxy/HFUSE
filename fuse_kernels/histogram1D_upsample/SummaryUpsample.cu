@@ -38,7 +38,7 @@
 #include "../cuda/LaunchUtils.h"
 
 #include <cuda_profiler_api.h>
-#include "../timeProfiler.h"
+#include "../../timeProfiler.h"
 
 const int NUM_KERNELS = 16;
 float kernel_times[NUM_KERNELS];
